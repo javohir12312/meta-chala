@@ -1,0 +1,51 @@
+.hero__inner {
+  display: flex;
+  margin-top: 150px;
+}
+
+.hero__all-text {
+  width: 35%;
+}
+
+.hero__heading {
+  font-family: 'Audiowide';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 51px;
+  line-height: 61px;
+  color: white;
+}
+
+.hero__text {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: white;
+}
+
+.hero__button {
+  width: 205px;
+  height: 60px;
+  background-color: #8DFD1B;
+  border-radius: 5px;
+  border: none;
+  margin-top: 70px;
+  color: black;
+  font-family: 'DM Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 16px;
+  transition: 0.4s ease;
+}
+
+.hero__button:hover {
+  background-color: darkturquoise;
+  box-shadow: 0px 0px 20px  10px red;
+}
+
+.hero__img{
+  margin-top: -70px;
+}

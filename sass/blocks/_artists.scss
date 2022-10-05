@@ -1,0 +1,31 @@
+.artists__list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+
+.artists__item {
+  width: 245px;
+  height: 309px;
+  margin: 40px 20px;
+}
+
+.artists__name {
+  color: white;
+  font-family: 'DM Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  text-align: center;
+}
+
+.artists__heading {
+  color: white;
+  text-align: center;
+  font-family: 'Audiowide';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 60px;
+  margin-bottom: 10px;
+  line-height: 88px;
+}

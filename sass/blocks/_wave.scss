@@ -1,0 +1,78 @@
+.wave__inner {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 180px;
+}
+
+.wave__heading {
+  color: white;
+  font-family: 'Audiowide';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 38px;
+  line-height: 45px;
+  margin-bottom: 0px;
+}
+
+.wave__collection {
+  width: 300px;
+  margin-top: 0px;
+  margin-bottom: 80px;
+  color: gray;
+  font-family: 'Audiowide';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 38px;
+  line-height: 45px;
+}
+
+.wave__img {
+  margin-left: -70px;
+}
+
+.wave__all-text {
+  width: 40%;
+  margin-top: 30px;
+}
+
+.wave__list-text {
+  width: 600px;
+  list-style-type: none;
+}
+
+.wave__item-text-green {
+  color: #8DFD1B;
+  border-left: solid 3px #8DFD1B;
+  padding-left: 40px;
+  font-family: 'DM Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 32px;
+}
+
+.wave__item-text {
+  color: white;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26px;
+}
+
+.wave__btn{
+  margin-top: 60px;
+  border: solid 2px #8DFD1B;
+  background-color: black;
+  color: white;
+  padding: 10px 50px;
+  transition: 0.4s ease;
+}
+
+.wave__btn:hover {
+  color: black;
+  background-color: #8DFD1B;
+  box-shadow: 0px 0px 20px 10px gray;
+}

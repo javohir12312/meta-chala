@@ -1,0 +1,10 @@
+@mixin flex-starter {
+  display: flex;
+  align-items: center;
+}
+
+@mixin list-global {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}

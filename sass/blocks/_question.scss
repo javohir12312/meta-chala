@@ -1,0 +1,38 @@
+.quation{
+  margin-bottom: 115px;
+}
+
+.quation__box{
+  display: flex;
+  justify-content: space-between;
+}
+
+.quation__left{
+  width: 100%;
+  max-width: 360px;
+}
+
+.quation__title{
+  margin: 0 0 51px;
+  font-family: 'Audiowide';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 38px;
+  line-height: 45px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+
+.quation__desc{
+  color: #A8A8A8;
+}
+
+.quation__img{
+  width: 360px;
+  height: 360px;
+}
+
+.quation__right{
+  width: 100%;
+  max-width: 580px;
+}
